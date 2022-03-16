@@ -22,7 +22,7 @@ public class Locators {
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 
-		driver.get("http://techlear.in");
+		driver.get("http://techlearn.in");
         Thread.sleep(3000);
 
         Actions act=new Actions(driver);
