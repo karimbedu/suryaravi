@@ -1,0 +1,12 @@
+2022-03-12 17:26:52,377 - LogLearning -INFO - Chrome Browser Opened
+2022-03-12 17:26:52,580 - LogLearning -INFO - browser maximize Opened
+2022-03-12 17:26:59,183 - LogLearning -INFO - Website is entered
+2022-03-12 17:30:33,522 - SeleniumLearnHomepage -INFO - Chrome Browser Opened
+2022-03-12 17:30:33,677 - SeleniumLearnHomepage -INFO - browser maximize Opened
+2022-03-12 17:30:38,830 - SeleniumLearnHomepage -INFO - Website is entered
+2022-03-12 17:30:40,854 - SeleniumLearnHomepage -INFO - Click on Log4j Tutorial
+2022-03-12 17:30:45,862 - SeleniumLearnHomepage -INFO - Wait for 5 sec...
+2022-03-12 17:30:46,146 - SeleniumLearnHomepage -INFO - Browser is closed
+2022-03-12 17:33:28,841 - SeleniumLearnHomepage -INFO - Chrome Browser Opened
+2022-03-12 17:33:29,074 - SeleniumLearnHomepage -INFO - browser maximize Opened
+2022-03-12 17:33:35,036 - SeleniumLearnHomepage -INFO - Website is entered
